@@ -40,11 +40,6 @@ Las pruebas fueron desarrolladas con:
 - **HTMLTestRunner** para generar reportes HTML
 - Capturas automáticas con `driver.save_screenshot()` en escenarios exitosos y fallidos.
 
-Cada prueba valida:
-- Correcto funcionamiento de la interacción
-- Navegación esperada entre páginas
-- Verificación de elementos visibles o estados de botones
-
 ---
 
 ## 📊 Reportes y Evidencias
