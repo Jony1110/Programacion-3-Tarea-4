@@ -18,7 +18,6 @@ Se redactaron y documentaron **5 historias de usuario** en Jira, incluyendo:
 
 - ✅ Criterios de aceptación
 - ❌ Criterios de rechazo
-- 🧠 Descripciones claras y bien estructuradas
 
 Historias automatizadas:
 
