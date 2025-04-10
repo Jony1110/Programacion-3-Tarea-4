@@ -28,7 +28,7 @@ Historias automatizadas:
 4. 🛒 Ir al carrito y proceder al checkout
 5. 💳 Completar proceso de compra
 
-> El acceso a Jira fue otorgado al profesor `ktejada@itla.edu.do` y al monitor `20186927@itla.edu.do`.
+> El acceso al Jira y al GitHub fue otorgado al profesor `ktejada@itla.edu.do` y al monitor `20186927@itla.edu.do`.
 
 ---
 
