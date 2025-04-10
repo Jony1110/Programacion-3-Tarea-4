@@ -61,7 +61,7 @@ Las pruebas fueron desarrolladas con:
 Este repositorio contiene:
 - Código fuente en Python
 - Capturas y reportes
-- Historias de usuario (vía Jira con acceso otorgado)
+- Historias de usuario [(vía Jira con acceso otorgado)](https://itlaprogramacion3.atlassian.net/jira/software/projects/CDPA/boards/70)
 
 ---
 
