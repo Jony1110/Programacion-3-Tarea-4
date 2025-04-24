@@ -73,8 +73,3 @@ Este repositorio contiene:
 ✔️ Video explicativo  
 ✔️ Repositorio actualizado y completo  
 ✔️ Accesos otorgados
-
-
-## 📊 Lenguajes más usados
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jony1110&layout=compact&langs_count=8&theme=default)](https://github.com/anuraghazra/github-readme-stats)
